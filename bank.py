@@ -46,10 +46,6 @@ def bank():
         send_money(300,300)
     else:
         exit()
-
-
-    
-
 bank()
 
 
